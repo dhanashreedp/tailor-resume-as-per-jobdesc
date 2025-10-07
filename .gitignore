@@ -1,0 +1,5 @@
+target/classes/application.properties
+*.class
+
+# Ignore properties with API keys
+src/main/resources/application.properties
